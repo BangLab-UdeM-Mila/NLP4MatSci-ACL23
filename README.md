@@ -9,7 +9,7 @@ Given the scarcity of high-quality annotated data in the materials science domai
 Our experiments in this low-resource training setting show that language models pretrained on scientific text outperform BERT trained on general text. 
 MatBERT, a model pretrained specifically on materials science journals, generally performs best for most tasks.    
 
-Moreover, we propose a unified text-to-schema for multitask learning on \benchmark and compare its performance with traditional fine-tuning methods. In our analysis of different training methods, we find that our proposed text-to-schema methods inspired by question-answering consistently outperform single and multitask NLP fine-tuning methods.    
+Moreover, we propose a unified text-to-schema for multitask learning on MatSci-NLP and compare its performance with traditional fine-tuning methods. In our analysis of different training methods, we find that our proposed text-to-schema methods inspired by question-answering consistently outperform single and multitask NLP fine-tuning methods.    
 
 ## Citation
 If you use our code or data in your research, please cite our paper:
