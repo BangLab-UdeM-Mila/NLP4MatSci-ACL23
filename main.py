@@ -289,8 +289,6 @@ if __name__ == "__main__":
         params['encoder'] = AutoModel.from_pretrained('seiya/oubiobert-base-uncased')
     elif (BASE_MODEL=='batterybert'):
         params['encoder'] = AutoModel.from_pretrained('batterydata/batterybert-uncased')
-    elif (BASE_MODEL=='basebert'):
-        tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased")
     else:
         raise ValueError('basemodel invalid!!!')
     decoder_layer = nn.TransformerDecoderLayer(d_model = HIDDEN_DIM, nhead = N_HEADS, batch_first = True)
