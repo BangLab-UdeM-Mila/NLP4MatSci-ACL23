@@ -1,0 +1,7 @@
+numpy==1.24.1
+pandas==1.5.3
+python_Levenshtein==0.20.9
+scikit_learn==1.2.0
+torch==1.12.1
+tqdm==4.64.0
+transformers==4.22.1

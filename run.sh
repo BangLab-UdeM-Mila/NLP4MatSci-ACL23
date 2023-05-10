@@ -1,0 +1,1 @@
+python main.py --basemodel scholarbert --batch_size 8 --hidden_dim 1024
