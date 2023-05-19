@@ -13,3 +13,11 @@ Moreover, we propose a unified text-to-schema for multitask learning on MatSci-N
 
 ## Citation
 If you use our code or data in your research, please cite our paper:
+```
+@article{song2023matsci,
+  title={MatSci-NLP: Evaluating Scientific Language Models on Materials Science Language Tasks Using Text-to-Schema Modeling},
+  author={Song, Yu and Miret, Santiago and Liu, Bang},
+  journal={arXiv preprint arXiv:2305.08264},
+  year={2023}
+}
+```
