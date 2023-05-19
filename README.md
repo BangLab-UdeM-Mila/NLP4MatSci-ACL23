@@ -21,3 +21,6 @@ If you use our code or data in your research, please cite our paper:
   year={2023}
 }
 ```
+
+## QA   
+If you have any questions about this code, feel free to email yusonghust@gmail.com. I will response as soon as possible.
