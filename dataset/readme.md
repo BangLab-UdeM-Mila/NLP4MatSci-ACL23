@@ -11,3 +11,6 @@
 - **Synthesis Action Retrieval~(SAR):** SAR is a materials science domain-specific task that defines eight action terms that unambiguously identify a type of synthesis action to describe a synthesis procedure. MatSci-NLP adapts SAR data to ask language models to classify word tokens into pre-defined action categories.
 - **Sentence Classification:** In the sentence classification task, models identify sentences that describe relevant experimental facts.
 - **Slot Filling:** In the slot-filling task, models extract slot fillers from particular sentences based on a predefined set of semantically meaningful entities. In this task, each sentence describes a single experiment frame for which the model predicts the slots in that frame.
+
+## Data source of each dataset
+The sub-datasets of MATSCI-NLP benchmark are collected from internet. If you want to know further details about each sub-dataset, please refer to the original paper.
