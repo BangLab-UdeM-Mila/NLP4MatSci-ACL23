@@ -23,4 +23,4 @@ If you use our code or data in your research, please cite our paper:
 ```
 
 ## QA   
-If you have any questions about this code, feel free to email yusonghust@gmail.com. I will response as soon as possible.
+If you have any questions about this code, feel free to email yu.song@umontreal.ca. I will response as soon as possible.
