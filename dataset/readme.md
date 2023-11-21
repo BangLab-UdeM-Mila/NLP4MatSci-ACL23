@@ -1,7 +1,7 @@
 # Dataset   
 
 ## The tasks for each dataset
-<img src="https://github.com/BangLab-UdeM-Mila/NLP4MatSci-ACL23/blob/main/dataset/dataset.png" width="800" height="450" alt="图片加载失败时，显示这段字"/>  
+<img src="https://github.com/BangLab-UdeM-Mila/NLP4MatSci-ACL23/blob/main/dataset/dataset.png" alt="图片加载失败时，显示这段字"/>  
 
 ## Introduction of each task
 - **Named Entity Recognition~(NER):** The NER task requires models to extract summary-level information from materials science text and recognize entities including materials, descriptors, material properties, and applications amongst others. The NER task predicts the best entity type label for a given text span $s_i$ with a non-entity span containing a “null” label. 
